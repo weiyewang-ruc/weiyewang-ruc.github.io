@@ -7,7 +7,7 @@ title: Publications
 
 ---
 
-## Selected Publications
+### Selected Publications
 
 1. Weiye Wang, Suyuan He, Jinlong Liu. Understanding environmental governance in China through Green Shield Action campaign. *Journal of Contemporary China*, 2024, 33(149), 739-754. [https://doi.org/10.1080/10670564.2023.2244893](https://doi.org/10.1080/10670564.2023.2244893)
 
@@ -25,16 +25,16 @@ title: Publications
 
 ---
 
-## Presentations & Conference Participation
+### Presentations & Conference Participation
 
-### Invented Talks
+#### Invented Talks
 - **“Understanding Environmental Governance through Protected Areas Management in China”**<br>Wageningen University & Research, July 2nd, 2024, Wageningen, Netherland.
 
-### Panels Chaired and Workshop Organized
+#### Panels Chaired and Workshop Organized
 - **“Governance in protected areas and local livelihoods”**<br>June 16-21, 2024, World Biodiversity Forum, Davos, Switzerland.
 - **“Development of National Nature Reserves in the Yellow River Basin”**<br>Released the “Management Assessment Report of National Nature Reserve in the Yellow River Basin” report, November 6-7, 2023, Renmin University of China, Beijing, China.
 
-### Papers Presented
+#### Papers Presented
 - **“Understanding biological conservation governance through campaign-style enforcement in China”**<br>June 23-29, 2024, 26th International Union of Forest Research Organizations World Congress, Stockholm, Sweden.
 - **“Management Status of National Nature Reserves in the Yellow River Basin”**<br>June 16-21, 2024, World Biodiversity Forum, Davos, Switzerland.
 - **“Forest nature conservation within different political systems – comparison of cases in China and Germany”**<br>June 26th, 2022, World Biodiversity Forum (online).

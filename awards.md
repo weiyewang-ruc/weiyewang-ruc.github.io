@@ -4,9 +4,9 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 8th Oct 2024
+<!-- > Update: 8th Oct 2024 -->
 
-## Awards & Honors
+### Awards & Honors
 
 - 2023-2026: Young Talents Award, Renmin University of China
 - 2022: Advanced Individuals in Undergraduate Admissions, Renmin University of China
@@ -15,7 +15,7 @@ title: Awards
 - 2014-2018: PhD Fellowship, the University of British Columbia
 - 2011-2013: International Partial Tuition Scholarship, the University of British Columbia
 
-## Grants
+### Grants
 
 - 2023-2027: National Key Research and Development Program of China, China-EU TRANSFORMIT project: Transforming forest management for multiple ecosystem services and nature conservation via the integrative approach, Participator ￥6,500,000 ($903,000)
 - 2023-2025: The impact and mechanism of management effectiveness of nature reserves on local social-ecological coupling coordination in the Yellow River Basin, National Natural Science Foundation, Principal Investigator ￥300,000 ($44,800)
