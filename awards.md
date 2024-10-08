@@ -4,26 +4,23 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 8th Oct 2024
 
-## Scholarships
+## Awards & Honors
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2023-2026: Young Talents Award, Renmin University of China
+- 2022: Advanced Individuals in Undergraduate Admissions, Renmin University of China
+- 2020-2023: Young Scholar Award, Renmin University of China
+- 2017: Student Travel Award, the University of British Columbia
+- 2014-2018: PhD Fellowship, the University of British Columbia
+- 2011-2013: International Partial Tuition Scholarship, the University of British Columbia
 
-## Competitions
+## Grants
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- 2023-2027: National Key Research and Development Program of China, China-EU TRANSFORMIT project: Transforming forest management for multiple ecosystem services and nature conservation via the integrative approach, Participator ￥6,500,000 ($903,000)
+- 2023-2025: The impact and mechanism of management effectiveness of nature reserves on local social-ecological coupling coordination in the Yellow River Basin, National Natural Science Foundation, Principal Investigator ￥300,000 ($44,800)
+- 2022: Research on the socio-economic and cultural development of communities surrounding Qilian Mountain National Park, Participator ￥100,000 ($13,888)
+- 2021-2022: Community development plan in Maoli Lake region, Hunan Province, French Development Agency, Principal Investigator ￥300,000 ($44,800)
+- 2018-2020: Changes in People’s Livelihoods in Protected Areas in China during a Period of Rapid Transition, The Ruffor Foundation, 25329-2, Principal Investigator £5,000
 
 <br>

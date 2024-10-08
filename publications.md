@@ -4,44 +4,43 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
-## Conference Paper
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-  <br>
 
 ---
 
-## Ongoing Project
+## Selected Publications
 
-- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
+1. Weiye Wang, Suyuan He, Jinlong Liu. Understanding environmental governance in China through Green Shield Action campaign. *Journal of Contemporary China*, 2024, 33(149), 739-754. [https://doi.org/10.1080/10670564.2023.2244893](https://doi.org/10.1080/10670564.2023.2244893)
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
+2. Weiye Wang, Daye Zhai, Xinyang Li, Haowen Fang, Yuanyuan Yang. Conflicts in mangrove protected areas through the actor-centred power framework - Insights from China. *Forest Policy and Economics*, 2024, 158, January, 103122. [https://doi.org/10.1016/j.forpol.2023.103122](https://doi.org/10.1016/j.forpol.2023.103122)
 
-<br>
+3. Suyuan He, Weiye Wang. Social Resources Transfer Program under China’s Targeted Poverty Alleviation Strategy: Rural Social Structure and Local Politics. *Journal of Contemporary China*, 2023, 32(142): 686-703. [http://doi:10.1080/10670564.2022.2109844](http://doi:10.1080/10670564.2022.2109844)
 
----
+4. Weiye Wang, Daye Zhai, Bo Huang. Implementation gaps affecting the quality of biodiversity conservation management: An ethnographic study of protected areas in Fujian. *Forest Policy and Economics*, 2023, 149, April, 102933. [https://doi.org/10.1016/j.forpol.2023.102933](https://doi.org/10.1016/j.forpol.2023.102933)
 
-## Degree Thesis
+5. Weiye Wang, Jinlong Liu. Lessons of government centralization and credibility: A qualitative case-study of administrative change in Jiuzhaigou Nature Reserve, China (1982–2018). *Land Use Policy*, 2022, 113: 105907. [http://doi:10.1016/j.landusepol.2021.105907](http://doi:10.1016/j.landusepol.2021.105907)
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+6. Weiye Wang, Jinlong Liu, John Innes. Conservation Equity for Local Communities in the Process of Tourism Development in Protected Areas: A Study of Jiuzhaigou Biosphere Reserve, China. *World Development*, 2019, 124: 104637. [http://doi:10.1016/j.worlddev.2019.104637](http://doi:10.1016/j.worlddev.2019.104637)
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
+7. 王炜晔，翟大业，刘金龙。我国生物多样性保护自然—社会科学交叉融合与发展研究,《生态学报》 Weiye Wang, Daye Zhai, Jinlong Liu. Research on Interdisciplinary integration and development of natural-social sciences for biodiversity conservation in China. *Acta Ecologica Sinica*, 2024, 44(13), 5459-5475.
 
 ---
 
-## Early Project
+## Presentations & Conference Participation
 
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+### Invented Talks
+- **“Understanding Environmental Governance through Protected Areas Management in China”**<br>Wageningen University & Research, July 2nd, 2024, Wageningen, Netherland.
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+### Panels Chaired and Workshop Organized
+- **“Governance in protected areas and local livelihoods”**<br>June 16-21, 2024, World Biodiversity Forum, Davos, Switzerland.
+- **“Development of National Nature Reserves in the Yellow River Basin”**<br>Released the “Management Assessment Report of National Nature Reserve in the Yellow River Basin” report, November 6-7, 2023, Renmin University of China, Beijing, China.
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+### Papers Presented
+- **“Understanding biological conservation governance through campaign-style enforcement in China”**<br>June 23-29, 2024, 26th International Union of Forest Research Organizations World Congress, Stockholm, Sweden.
+- **“Management Status of National Nature Reserves in the Yellow River Basin”**<br>June 16-21, 2024, World Biodiversity Forum, Davos, Switzerland.
+- **“Forest nature conservation within different political systems – comparison of cases in China and Germany”**<br>June 26th, 2022, World Biodiversity Forum (online).
+- **“The Change of Power Interaction Behind Conflicts in a Coastal Mangrove Protected Area—A Case Study in Fujian Province, China”**<br>January 25, 2022, Sustainability & Development Conference, E19 (online).
+- **“Conservation Equity for Local Communities in the Process of Tourism Development in Protected Areas: A Study of Jiuzhaigou Biosphere Reserve, China”**<br>November 9-11, 2018, Sustainability and Development Conference, Ann Arbor, Michigan, U.S.
+- **“Community Conservation Concession Agreement—A New Practice in Protected Areas in China”**<br>September 29-October 2, 2017, 3rd Annual Forests and Livelihoods: Assessment, Research, and Engagement (FLARE) Network Meeting, Stockholm, Sweden.
+- **“Changes in the livelihoods of local people in protected areas in China”**<br>September 18-22, 2017, 125th International Union of Forest Research Organizations Anniversary Congress, Freiburg, Germany.
 
-  <br>
+---
