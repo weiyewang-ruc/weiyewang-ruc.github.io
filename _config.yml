@@ -2,7 +2,7 @@ title: Weiye Wang
 # tagline: Here is personal website of Weiye Wang. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://weiyewang-ruc.github.io/
+url: https://weiyewang-ruc.github.io
 
 # Owner/author information
 owner:
@@ -42,8 +42,6 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
   - title: Blogs
     url: /blogs/
   - title: Teams
